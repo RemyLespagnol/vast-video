@@ -1,0 +1,44 @@
+<VAST version="4.1">
+<script type="text/javascript" src="chrome-extension://ibniinmoafhgbifjojidlagmggecmpgf/dist/inject.js"/>
+<Ad id="832e3151-c852-4930-a741-5c2b3d5771ee">
+<InLine>
+<AdSystem>
+<![CDATA[ Ogury Admin Adserver ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ Remy test ]]>
+</AdTitle>
+<Description>
+<![CDATA[ Remy test ]]>
+</Description>
+<AdServingId>
+<![CDATA[ Ogury-832e3151-c852-4930-a741-5c2b3d5771ee ]]>
+</AdServingId>
+<Impression>
+<![CDATA[ https://imp.com ]]>
+</Impression>
+<Creatives>
+<Creative>
+<UniversalAdId idRegistry="unknown">
+<![CDATA[ unknown ]]>
+</UniversalAdId>
+<Linear>
+<Duration>
+<![CDATA[ 00:00:06 ]]>
+</Duration>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://google.com ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" bitrate="5400" width="608" height="1080" type="video/mp4">
+<![CDATA[ https://medias.presage.io/medias/videos/27ed1e64-25bc-4ca7-bfdc-c0e6c903e4cf.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
