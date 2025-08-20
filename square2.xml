@@ -1,0 +1,28 @@
+<VAST version="4.2">
+  <Ad id="ogury-ss-landscape-square">
+    <InLine>
+      <AdSystem>Ogury-SpeedSize</AdSystem>
+      <AdTitle>Renditions 240p/360p/480p/720p/1080p via square box</AdTitle>
+      <Impression><![CDATA[https://example.com/imp]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <MediaFiles>
+              <!-- 240p -->
+              <MediaFile delivery="progressive" type="video/mp4" width="426" height="240"><![CDATA[https://media.ogury.co/medias.presage.io/medias/videos/e32025ef-c3dc-4063-8ad1-b8dff2bf08eb.mp4?w=426&h=426]]></MediaFile>
+              <!-- 360p -->
+              <MediaFile delivery="progressive" type="video/mp4" width="640" height="360"><![CDATA[https://media.ogury.co/medias.presage.io/medias/videos/e32025ef-c3dc-4063-8ad1-b8dff2bf08eb.mp4?w=640&h=640]]></MediaFile>
+              <!-- 480p -->
+              <MediaFile delivery="progressive" type="video/mp4" width="854" height="480"><![CDATA[https://media.ogury.co/medias.presage.io/medias/videos/e32025ef-c3dc-4063-8ad1-b8dff2bf08eb.mp4?w=854&h=854]]></MediaFile>
+              <!-- 720p -->
+              <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720"><![CDATA[https://media.ogury.co/medias.presage.io/medias/videos/e32025ef-c3dc-4063-8ad1-b8dff2bf08eb.mp4?w=1280&h=1280]]></MediaFile>
+              <!-- 1080p -->
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080"><![CDATA[https://media.ogury.co/medias.presage.io/medias/videos/e32025ef-c3dc-4063-8ad1-b8dff2bf08eb.mp4?w=1920&h=1920]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
