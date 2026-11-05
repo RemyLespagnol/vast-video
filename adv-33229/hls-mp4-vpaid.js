@@ -2,8 +2,8 @@
 (function () {
   var MEDIA = [
     { url: 'https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8', type: 'application/x-mpegURL', w: 256, h: 144 },
-    { url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4', type: 'video/mp4', w: 1280, h: 720 },
-    { url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4', type: 'video/mp4', w: 640, h: 360 }
+    { url: 'https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4?s=1280', type: 'video/mp4', w: 1280, h: 720 },
+    { url: 'https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4?s=640', type: 'video/mp4', w: 640, h: 360 }
   ];
   function Ad() { this.h = {}; }
   Ad.prototype = {
