@@ -1,0 +1,20 @@
+<VAST version="3.0">
+  <Ad>
+    <InLine>
+      <AdSystem>ADV-33229 test</AdSystem>
+      <AdTitle><![CDATA[ ADV-33229 VPAID HLS + MP4 ]]></AdTitle>
+      <Impression><![CDATA[ https://localhost/impression_vpaid ]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:10</Duration>
+            <VideoClicks><ClickThrough><![CDATA[ https://www.google.com ]]></ClickThrough></VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="application/javascript" width="640" height="360" apiFramework="VPAID"><![CDATA[ https://cdn.jsdelivr.net/gh/RemyLespagnol/vast-video@main/adv-33229/hls-mp4-vpaid.js ]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
