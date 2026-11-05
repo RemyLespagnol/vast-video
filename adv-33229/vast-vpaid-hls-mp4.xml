@@ -10,7 +10,7 @@
             <Duration>00:00:10</Duration>
             <VideoClicks><ClickThrough><![CDATA[ https://www.google.com ]]></ClickThrough></VideoClicks>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="application/javascript" width="640" height="360" apiFramework="VPAID"><![CDATA[ https://cdn.jsdelivr.net/gh/RemyLespagnol/vast-video@main/adv-33229/hls-mp4-vpaid.js ]]></MediaFile>
+              <MediaFile delivery="progressive" type="application/javascript" width="640" height="360" apiFramework="VPAID"><![CDATA[ https://cdn.jsdelivr.net/gh/RemyLespagnol/vast-video@73ca0646752501527ffc51519d72fbb11cee36f5/adv-33229/hls-mp4-vpaid.js ]]></MediaFile>
             </MediaFiles>
           </Linear>
         </Creative>
